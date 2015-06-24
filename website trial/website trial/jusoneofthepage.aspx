@@ -1,0 +1,6 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="jusoneofthepage.aspx.vb" Inherits="website_trial.jusoneofthepage" %>
+
+<!DOCTYPE html>
+<html lang="en"> <head runat="server"> <title>Daniel's memories</title>
+     
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />     </head> <body> <form id="form1" runat="server"> <div class="container"> <div class="row"> <h1>Daniel Toh</h1> <div class="jumbotron"> <p>Hi! I'm Daniel Toh and this is my love story</p> </div> </div> <div class="row"> <div class="col-sm-4"> <h2>A random photo</h2> <img src="http://global-conferences.eu/wp-content/uploads/2013/09/34.jpg" alt="London!" class="img-responsive"> </div> <div class="col-sm-4"> <h2>Hobbies</h2> <ul> <li>Kayaking</li> <li>Coding</li> <li>Running</li> </ul> </div> <div class="col-sm-4"> <h2>Fun Facts</h2> <p>I like sushi</p> </div> </div> </div> <div class="container"> <footer> &copy; Daniel 2015 - <a href="https://www.facebook.com/daniel.toh.71?fref=ts">Facebook</a> - <a href="dan-toh@hotmail.com">Email</a> </footer> </div> </form> </body> </html>
